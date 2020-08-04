@@ -41,4 +41,5 @@ with open(file_name, "w") as f_obj:
     json.dump(items, f_obj)  # Converts to string
     print(len(items))
 
+print("hello")
 
